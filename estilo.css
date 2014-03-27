@@ -41,8 +41,8 @@
         font-family: impact;
         font-style: normal;
         font-weight: normal;
-      display: inline;
-      padding: 0px 10px 0px 10px;
+        display: inline;
+        padding: 0px 10px 0px 10px;
     }
     article {
       max-width: 900px;
