@@ -17,6 +17,10 @@
       font-size: 70px;
     }
 
+    article{
+      border: solid;
+    }
+
     h2{
         font-family: impact;
         font-style: normal;
