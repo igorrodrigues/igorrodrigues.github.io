@@ -1,0 +1,66 @@
+
+    header {
+      text-align: center;
+      background: url('http://imageshack.com/a/img19/1084/tj25.jpg');
+      background-size: 1500px 550px;
+      color: #00FF00;
+    }
+    a {
+      color: white;
+    }
+    h1{ 
+        font-family: A Star is Born;
+        font-style: normal;
+        font-weight: normal;
+      }
+    h1 {
+      font-size: 70px;
+    }
+
+    article{
+      border: solid;
+    }
+
+    h2{
+        font-family: impact;
+        font-style: normal;
+        font-weight: normal;
+        color: #00008B;
+    }
+
+    h2{
+      font-size: 30px;
+    }
+    img {
+      margin: 40px 0px 0px 0px;
+      border: 5px solid #00FF00;
+      border-radius: 20px;
+
+    }
+    ul {
+      padding: 10px;
+      background: rgba(0,0,0,0.5);
+    }
+    li {
+        font-family: impact;
+        font-style: normal;
+        font-weight: normal;
+        display: inline;
+        padding: 0px 10px 0px 10px;
+    }
+    article {
+      max-width: 900px;
+      padding: 20px;
+      margin: 0 auto;
+    }
+    @media (max-width: 500px) {
+      h1 {
+        font-size: 36px;
+        padding: 5px;
+      }
+      li {
+        padding: 5px;
+        display: block;
+      }
+    }
+  
